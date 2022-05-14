@@ -5,9 +5,7 @@
 
 
 
-![attention](../natural-language\RNN\attention\attention.png)
-
-
+[![attention.png](https://i.postimg.cc/tTgKXYgc/attention.png)](https://postimg.cc/Z917HYpP)
 
 
 
