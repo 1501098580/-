@@ -5,11 +5,7 @@
 
 
 
-
-
-
-
-
+![attention](../natural-language\RNN\attention\attention.png)
 
 
 
